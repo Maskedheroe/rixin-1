@@ -1,4 +1,4 @@
-#Fri Oct 05 16:47:39 CST 2018
-base.0=E\:\\Android\\rixin\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+#Fri Oct 05 17:07:53 CST 2018
+base.0=/Users/hou/Applications/AndroidWorkSpace/rixin-1/app/build/intermediates/transforms/dexMerger/debug/1
 path.0=classes.dex
 renamed.0=classes.dex

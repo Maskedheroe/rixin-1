@@ -25,13 +25,17 @@ import android.widget.TextView;
 import java.util.ArrayList;
 import java.util.List;
 
+import fragment.RixinDelegate;
 import jcydshanks.com.rixin.activity.BaseActivity;
 import jcydshanks.com.rixin.activity.NewsActivity;
 import jcydshanks.com.rixin.activity.WallPaperActivity;
 import jcydshanks.com.rixin.fragment.NewsFragment;
 import jcydshanks.com.rixin.fragment.ShouyeFragment;
 import jcydshanks.com.rixin.fragment.UserFragment;
+import jcydshanks.com.rixin.net.NetApi;
 import jcydshanks.com.rixin.utils.NoScrollViewPager;
+import okhttp3.ResponseBody;
+import retrofit2.Call;
 
 
 public class MainActivity extends BaseActivity implements View.OnClickListener {
@@ -41,15 +45,15 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
 //    tab图片数量
     private final int COUNT = Global.TAB_IMGS.length;
 //    实例化三个fragment对象
-    private NewsFragment mNewsFragment;
-    private ShouyeFragment mShouyeFragment;
-    private UserFragment mUserFragment;
+    private NewsFragment newsFragment;
+    private ShouyeFragment shouyeFragment;
+    private UserFragment userFragment;
 
     private TabViewPagerAdapter mAdapter;
     private NoScrollViewPager mViewPager;
     private TabLayout tabLayout;
     private NavigationView nav;
-    private DrawerLayout mDrawerLayout;
+    private DrawerLayout drawLayout;
     private ImageView head_img;
     private TextView tv_title;
     private ImageView notification;
@@ -70,12 +74,12 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
             decorView.setSystemUiVisibility(option);
             getWindow().setStatusBarColor(Color.TRANSPARENT);
         }
-        mNewsFragment = new NewsFragment();
-        mShouyeFragment = new ShouyeFragment();
-        mUserFragment = new UserFragment();
-        TAB_FRAGMENTS.add(mNewsFragment);
-        TAB_FRAGMENTS.add(mShouyeFragment);
-        TAB_FRAGMENTS.add(mUserFragment);
+        newsFragment = new NewsFragment();
+        shouyeFragment = new ShouyeFragment();
+        userFragment = new UserFragment();
+        TAB_FRAGMENTS.add(newsFragment);
+        TAB_FRAGMENTS.add(shouyeFragment);
+        TAB_FRAGMENTS.add(userFragment);
         initView();
         openLeftMenu();
     }
@@ -85,7 +89,7 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
         tabLayout = (TabLayout) findViewById(R.id.tablayout);
         mAdapter = new TabViewPagerAdapter(getSupportFragmentManager());
         mViewPager = (NoScrollViewPager) findViewById(R.id.viewpager);
-        mDrawerLayout = (DrawerLayout) findViewById(R.id.draw_layout);
+        drawLayout = (DrawerLayout) findViewById(R.id.draw_layout);
         tv_title = (TextView) findViewById(R.id.tv_title);
         head_img = findViewById(R.id.head_img);
         notification=findViewById(R.id.notification_img);
@@ -117,7 +121,7 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
                         break;
                 }
 
-                mDrawerLayout.closeDrawers();//关闭侧滑
+                drawLayout.closeDrawers();//关闭侧滑
 
                 return true;
             }
@@ -127,7 +131,7 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
             head_img.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View view) {
-                    mDrawerLayout.openDrawer(GravityCompat.START);
+                    drawLayout.openDrawer(GravityCompat.START);
                 }
             });
         }
@@ -191,7 +195,7 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
                 onBackPressed();
                 break;
             case R.id.head_img:
-                mDrawerLayout.openDrawer(GravityCompat.START);
+                drawLayout.openDrawer(GravityCompat.START);
                 break;
             case R.id.notification_img:
                 startActivity(new Intent(MainActivity.this, NewsActivity.class));

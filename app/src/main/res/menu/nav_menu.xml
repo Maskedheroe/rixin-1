@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="none">
+        <item android:id="@+id/selfdata"
+            android:title="个人资料"/>
+        <item android:id="@+id/schoolsituation"
+            android:title="学校概况"/>
+        <item android:id="@+id/aboutus"
+            android:title="关于"/>
+        <item android:id="@+id/cover_wallpaper"
+            android:title="每日壁纸"
+            />
+        <item android:id="@+id/feedback"
+            android:title="意见反馈"
+            />
+    </group>
+
+</menu>

@@ -1,10 +1,20 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Android\\rixin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mk\\values-mk.xml",
+            "outputFile": "/Users/hou/Applications/AndroidWorkSpace/rixin-1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\JcyDS\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\bfd58a1dae48f6e6a852dde223eac050\\res\\values-mk\\values-mk.xml",
+                    "source": "/Users/hou/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/17635cf7947bc28477a1180f1f080fcd/res/values-mk/values-mk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,213,317,425,511,616,735,818,900,987,1093,1200,1301,1408,1519,1623,1779,1877",
+                        "endColumns": "107,103,107,85,104,118,82,81,86,105,106,100,106,110,103,155,97,83",
+                        "endOffsets": "208,312,420,506,611,730,813,895,982,1088,1195,1296,1403,1514,1618,1774,1872,1956"
+                    }
+                },
+                {
+                    "source": "/Users/hou/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6ccb7eaddc1189fc6bffd5d86908134b/res/values-mk/values-mk.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -18,16 +28,6 @@
                         "startOffsets": "1961",
                         "endColumns": "100",
                         "endOffsets": "2057"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\JcyDS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\1fa101ed39b57396cac675c8f584f2ff\\res\\values-mk\\values-mk.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,213,317,425,511,616,735,818,900,987,1093,1200,1301,1408,1519,1623,1779,1877",
-                        "endColumns": "107,103,107,85,104,118,82,81,86,105,106,100,106,110,103,155,97,83",
-                        "endOffsets": "208,312,420,506,611,730,813,895,982,1088,1195,1296,1403,1514,1618,1774,1872,1956"
                     }
                 }
             ]

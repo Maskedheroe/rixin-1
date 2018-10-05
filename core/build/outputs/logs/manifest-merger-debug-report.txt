@@ -1,37 +1,37 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\Android\rixin\core\src\main\AndroidManifest.xml:1:1-2:41
-INJECTED from E:\Android\rixin\core\src\main\AndroidManifest.xml:1:1-2:41
-INJECTED from E:\Android\rixin\core\src\main\AndroidManifest.xml:1:1-2:41
-INJECTED from E:\Android\rixin\core\src\main\AndroidManifest.xml:1:1-2:41
-INJECTED from E:\Android\rixin\core\src\main\AndroidManifest.xml:1:1-2:41
-INJECTED from E:\Android\rixin\core\src\main\AndroidManifest.xml:1:1-2:41
-INJECTED from E:\Android\rixin\core\src\main\AndroidManifest.xml:1:1-2:41
+ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/core/src/main/AndroidManifest.xml:1:1-2:41
+INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/core/src/main/AndroidManifest.xml:1:1-2:41
+INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/core/src/main/AndroidManifest.xml:1:1-2:41
+INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/core/src/main/AndroidManifest.xml:1:1-2:41
+INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/core/src/main/AndroidManifest.xml:1:1-2:41
+INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/core/src/main/AndroidManifest.xml:1:1-2:41
+INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/core/src/main/AndroidManifest.xml:1:1-2:41
 	package
-		ADDED from E:\Android\rixin\core\src\main\AndroidManifest.xml:2:5-38
-		INJECTED from E:\Android\rixin\core\src\main\AndroidManifest.xml
-		INJECTED from E:\Android\rixin\core\src\main\AndroidManifest.xml
+		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/core/src/main/AndroidManifest.xml:2:5-38
+		INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/core/src/main/AndroidManifest.xml
+		INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/core/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from E:\Android\rixin\core\src\main\AndroidManifest.xml
-		ADDED from E:\Android\rixin\core\src\main\AndroidManifest.xml:1:1-2:41
-		INJECTED from E:\Android\rixin\core\src\main\AndroidManifest.xml
+		INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/core/src/main/AndroidManifest.xml
+		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/core/src/main/AndroidManifest.xml:1:1-2:41
+		INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/core/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from E:\Android\rixin\core\src\main\AndroidManifest.xml
-		ADDED from E:\Android\rixin\core\src\main\AndroidManifest.xml:1:1-2:41
-		INJECTED from E:\Android\rixin\core\src\main\AndroidManifest.xml
+		INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/core/src/main/AndroidManifest.xml
+		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/core/src/main/AndroidManifest.xml:1:1-2:41
+		INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/core/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from E:\Android\rixin\core\src\main\AndroidManifest.xml:1:11-69
+		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/core/src/main/AndroidManifest.xml:1:11-69
 uses-sdk
-INJECTED from E:\Android\rixin\core\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from E:\Android\rixin\core\src\main\AndroidManifest.xml
-INJECTED from E:\Android\rixin\core\src\main\AndroidManifest.xml
-INJECTED from E:\Android\rixin\core\src\main\AndroidManifest.xml
-INJECTED from E:\Android\rixin\core\src\main\AndroidManifest.xml
+INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/core/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/core/src/main/AndroidManifest.xml
+INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/core/src/main/AndroidManifest.xml
+INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/core/src/main/AndroidManifest.xml
+INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/core/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from E:\Android\rixin\core\src\main\AndroidManifest.xml
-		ADDED from E:\Android\rixin\core\src\main\AndroidManifest.xml
-		INJECTED from E:\Android\rixin\core\src\main\AndroidManifest.xml
+		INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/core/src/main/AndroidManifest.xml
+		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/core/src/main/AndroidManifest.xml
+		INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/core/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from E:\Android\rixin\core\src\main\AndroidManifest.xml
-		ADDED from E:\Android\rixin\core\src\main\AndroidManifest.xml
-		INJECTED from E:\Android\rixin\core\src\main\AndroidManifest.xml
+		INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/core/src/main/AndroidManifest.xml
+		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/core/src/main/AndroidManifest.xml
+		INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/core/src/main/AndroidManifest.xml

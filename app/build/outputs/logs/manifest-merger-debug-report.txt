@@ -1,230 +1,230 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:2:1-57:12
-INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:2:1-57:12
-INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:2:1-57:12
-INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:2:1-57:12
-MERGED from [:core] /Users/hou/Applications/AndroidWorkSpace/rixin-1/core/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:design:27.1.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/74f6699217bed817a415ad9a62742c4d/AndroidManifest.xml:17:1-22:12
-MERGED from [com.gyf.immersionbar:immersionbar:2.3.2-beta01] /Users/hou/.gradle/caches/transforms-1/files-1.1/immersionbar-2.3.2-beta01.aar/45929321d4800deb31e701ffe4839feb/AndroidManifest.xml:2:1-12:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/17635cf7947bc28477a1180f1f080fcd/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/hou/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/3e7cc826945b2491df48200e173b277e/AndroidManifest.xml:2:1-11:12
-MERGED from [me.yokeyword:fragmentation:1.3.4] /Users/hou/.gradle/caches/transforms-1/files-1.1/fragmentation-1.3.4.aar/8dfdf7cda0a2110dd48bc2fc08b57b73/AndroidManifest.xml:2:1-11:12
-MERGED from [me.yokeyword:fragmentation-swipeback:1.3.4] /Users/hou/.gradle/caches/transforms-1/files-1.1/fragmentation-swipeback-1.3.4.aar/bb6a8a7445639668ddf4a68115d87d9f/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:support-v4:27.1.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/2e8ca4ca19c669368aafe5983fae5003/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/275b971ff403b7fb3f102e0874f21066/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cardview-v7:27.1.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/e789bed8781fe90551a22d577ac348d9/AndroidManifest.xml:17:1-22:12
-MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/hou/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/b124f7d032fcb492e121acdd24504409/AndroidManifest.xml:2:1-11:12
-MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/hou/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/38d65aa1d58bf26e42d124d63f811b95/AndroidManifest.xml:15:1-21:12
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/cbc72fdacb8cf4d34f9fdac488a40472/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/0b5044bbece9b15b3ea241a558cedec0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/409eb3179b655ba3a52b2897fd1cacc6/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a921c72d9e3954329d5e7154d2aa5eaa/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/2697568d9e744cc2d058c1e3e6405097/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:27.1.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/6e3f0c4f4ea53931251056dfcedf7a62/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.1.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/58b6a35b8412df97dd2fe6f9bb579522/AndroidManifest.xml:17:1-22:12
-MERGED from [com.jakewharton:butterknife:8.8.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/c18d99fe579a04ff87e2bc616983a056/AndroidManifest.xml:2:1-7:12
-MERGED from [com.android.support:support-compat:27.1.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6ccb7eaddc1189fc6bffd5d86908134b/AndroidManifest.xml:17:1-22:12
-MERGED from [me.yokeyword:fragmentation-core:1.3.4] /Users/hou/.gradle/caches/transforms-1/files-1.1/fragmentation-core-1.3.4.aar/5ea597e134228cdae24cb1cb0f0ff351/AndroidManifest.xml:2:1-11:12
-MERGED from [io.reactivex:rxandroid:1.2.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/rxandroid-1.2.1.aar/13f82c17a19d0ff2db1b9a2fbd17bad8/AndroidManifest.xml:15:1-21:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/hou/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/5b4188fb91c4b7d453389113613c3369/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/hou/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/000af3902f468d4f4f1e777995e785d1/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/hou/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/026972abd8c7c7a65893ed2f219f4551/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] /Users/hou/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5a8f4216e80ad56323b15747220e12ce/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:2:1-57:12
-INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:2:1-57:12
-INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:2:1-57:12
+ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from E:\Android\rixin\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from E:\Android\rixin\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from E:\Android\rixin\app\src\main\AndroidManifest.xml:2:1-57:12
+MERGED from [:core] E:\Android\rixin\core\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\acd66a122dedceb0b7cd64fe3fcf46d6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.gyf.immersionbar:immersionbar:2.3.2-beta01] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\immersionbar-2.3.2-beta01.aar\954ad618495c92714566bbf964e581cc\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\1fa101ed39b57396cac675c8f584f2ff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\95285214289ab4a6c23d5c7eb01475c5\AndroidManifest.xml:2:1-11:12
+MERGED from [me.yokeyword:fragmentation:1.3.4] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\fragmentation-1.3.4.aar\550e231e8143d0f2b7815e031265064d\AndroidManifest.xml:2:1-11:12
+MERGED from [me.yokeyword:fragmentation-swipeback:1.3.4] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\fragmentation-swipeback-1.3.4.aar\7e6573753b1f628dcb863fc5aa62851e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\f8203c1910fdc9eabbc4d49756f2bfc4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\51553fe8c008c87d6dc494f23df4f0cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\85dcda2a1b186b6a4ee577e8147c905c\AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\454ad3508ff610768f3c7796c4acaece\AndroidManifest.xml:2:1-11:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.2.aar\8ffee0eb985386076384d6b1c789e665\AndroidManifest.xml:15:1-21:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\954b24ab4dd8867f42415b37de92b278\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\50fb32733f7e74816786f245ae62143b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\3d63790198bcf0ee57730df9eb38e86f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c1a1da5f676b82bb8b804c797114f706\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\bb3c496cf36f056b5b8c08d2f0f897fd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\68e84d0b00feea311b6ab8c51d6ab45b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\a1834f0b4e6a87aa5f35354eb1f4a3b3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\c4c1a6704f4e7ac7aa25e775230dd75f\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\bfd58a1dae48f6e6a852dde223eac050\AndroidManifest.xml:17:1-22:12
+MERGED from [me.yokeyword:fragmentation-core:1.3.4] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\fragmentation-core-1.3.4.aar\61cb56de5e1883c2b9e843b8c18cbab5\AndroidManifest.xml:2:1-11:12
+MERGED from [io.reactivex:rxandroid:1.2.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\rxandroid-1.2.1.aar\f538bc46dbf769dcc12caf8027bec28d\AndroidManifest.xml:15:1-21:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\6f8e9c1142fa9a367b539d86f55fbbcc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\cf514c7c56e3ede524edeb9e2f4e6e79\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6ef1381b5db0957d34f34acd49078f33\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\348221e072f254ada272b8d567f198d1\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Android\rixin\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from E:\Android\rixin\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from E:\Android\rixin\app\src\main\AndroidManifest.xml:2:1-57:12
 	package
-		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:3:5-35
-		INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml
+		ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from E:\Android\rixin\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\rixin\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml
-		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:2:1-57:12
-		INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml
+		INJECTED from E:\Android\rixin\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:2:1-57:12
+		INJECTED from E:\Android\rixin\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml
-		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:2:1-57:12
-		INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml
+		INJECTED from E:\Android\rixin\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:2:1-57:12
+		INJECTED from E:\Android\rixin\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:6:5-81
+ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:6:5-81
 	android:name
-		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:6:22-78
+		ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:6:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:8:5-79
+ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:8:5-79
 	android:name
-		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:8:22-76
+		ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:8:22-76
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:10:5-79
+ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:10:5-79
 	android:name
-		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:10:22-76
+		ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:10:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:12:5-76
+ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:12:5-76
 	android:name
-		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:12:22-73
+		ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:12:22-73
 uses-permission#android.permission.CHANGE_WIFI_STATE
-ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:14:5-76
+ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:14:5-76
 	android:name
-		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:14:22-73
+		ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:14:22-73
 uses-permission#android.permission.INTERNET
-ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:16:5-67
+ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:16:5-67
 	android:name
-		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:16:22-64
+		ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:16:22-64
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:18:5-75
+ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:18:5-75
 	android:name
-		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:18:22-72
+		ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:18:22-72
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:20:5-81
+ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:20:5-81
 	android:name
-		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:20:22-78
+		ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:20:22-78
 uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
-ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:22:5-89
+ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:22:5-89
 	android:name
-		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:22:22-86
+		ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:22:22-86
 uses-permission#android.permission.BLUETOOTH
-ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:24:5-68
+ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:24:5-68
 	android:name
-		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:24:22-65
+		ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:24:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:25:5-74
+ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:25:5-74
 	android:name
-		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:25:22-71
+		ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:25:22-71
 application
-ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:27:5-55:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/hou/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/3e7cc826945b2491df48200e173b277e/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/hou/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/3e7cc826945b2491df48200e173b277e/AndroidManifest.xml:9:5-20
-MERGED from [me.yokeyword:fragmentation:1.3.4] /Users/hou/.gradle/caches/transforms-1/files-1.1/fragmentation-1.3.4.aar/8dfdf7cda0a2110dd48bc2fc08b57b73/AndroidManifest.xml:9:5-20
-MERGED from [me.yokeyword:fragmentation:1.3.4] /Users/hou/.gradle/caches/transforms-1/files-1.1/fragmentation-1.3.4.aar/8dfdf7cda0a2110dd48bc2fc08b57b73/AndroidManifest.xml:9:5-20
-MERGED from [me.yokeyword:fragmentation-swipeback:1.3.4] /Users/hou/.gradle/caches/transforms-1/files-1.1/fragmentation-swipeback-1.3.4.aar/bb6a8a7445639668ddf4a68115d87d9f/AndroidManifest.xml:9:5-20
-MERGED from [me.yokeyword:fragmentation-swipeback:1.3.4] /Users/hou/.gradle/caches/transforms-1/files-1.1/fragmentation-swipeback-1.3.4.aar/bb6a8a7445639668ddf4a68115d87d9f/AndroidManifest.xml:9:5-20
-MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/hou/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/b124f7d032fcb492e121acdd24504409/AndroidManifest.xml:9:5-20
-MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/hou/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/b124f7d032fcb492e121acdd24504409/AndroidManifest.xml:9:5-20
-MERGED from [me.yokeyword:fragmentation-core:1.3.4] /Users/hou/.gradle/caches/transforms-1/files-1.1/fragmentation-core-1.3.4.aar/5ea597e134228cdae24cb1cb0f0ff351/AndroidManifest.xml:9:5-20
-MERGED from [me.yokeyword:fragmentation-core:1.3.4] /Users/hou/.gradle/caches/transforms-1/files-1.1/fragmentation-core-1.3.4.aar/5ea597e134228cdae24cb1cb0f0ff351/AndroidManifest.xml:9:5-20
+ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:27:5-55:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\95285214289ab4a6c23d5c7eb01475c5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\95285214289ab4a6c23d5c7eb01475c5\AndroidManifest.xml:9:5-20
+MERGED from [me.yokeyword:fragmentation:1.3.4] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\fragmentation-1.3.4.aar\550e231e8143d0f2b7815e031265064d\AndroidManifest.xml:9:5-20
+MERGED from [me.yokeyword:fragmentation:1.3.4] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\fragmentation-1.3.4.aar\550e231e8143d0f2b7815e031265064d\AndroidManifest.xml:9:5-20
+MERGED from [me.yokeyword:fragmentation-swipeback:1.3.4] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\fragmentation-swipeback-1.3.4.aar\7e6573753b1f628dcb863fc5aa62851e\AndroidManifest.xml:9:5-20
+MERGED from [me.yokeyword:fragmentation-swipeback:1.3.4] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\fragmentation-swipeback-1.3.4.aar\7e6573753b1f628dcb863fc5aa62851e\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\454ad3508ff610768f3c7796c4acaece\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\454ad3508ff610768f3c7796c4acaece\AndroidManifest.xml:9:5-20
+MERGED from [me.yokeyword:fragmentation-core:1.3.4] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\fragmentation-core-1.3.4.aar\61cb56de5e1883c2b9e843b8c18cbab5\AndroidManifest.xml:9:5-20
+MERGED from [me.yokeyword:fragmentation-core:1.3.4] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\fragmentation-core-1.3.4.aar\61cb56de5e1883c2b9e843b8c18cbab5\AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:32:9-35
+		ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:32:9-35
 	android:label
-		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:30:9-41
+		ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:30:9-41
 	android:roundIcon
-		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:31:9-54
+		ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:31:9-54
 	android:icon
-		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:29:9-43
+		ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:29:9-43
 	android:allowBackup
-		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:28:9-35
+		ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:28:9-35
 	android:theme
-		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:33:9-40
+		ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:33:9-40
 meta-data#com.amap.api.v2.apikey
-ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:34:9-36:64
+ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:34:9-36:64
 	android:value
-		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:36:13-61
+		ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:36:13-61
 	android:name
-		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:35:13-50
+		ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:35:13-50
 service#com.amap.api.location.APSService
-ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:38:9-68
+ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:38:9-68
 	android:name
-		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:38:18-65
+		ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:38:18-65
 activity#jcydshanks.com.rixin.MainActivity
-ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:40:9-42:47
+ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:40:9-42:47
 	android:launchMode
-		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:42:13-44
+		ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:42:13-44
 	android:name
-		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:41:13-41
+		ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:41:13-41
 activity#jcydshanks.com.rixin.activity.StartActivity
-ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:43:9-49:20
+ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:43:9-49:20
 	android:name
-		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:43:19-57
+		ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:43:19-57
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:44:13-48:29
+ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:44:13-48:29
 action#android.intent.action.MAIN
-ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:45:17-69
+ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:45:17-69
 	android:name
-		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:45:25-66
+		ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:45:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:47:17-77
+ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:47:17-77
 	android:name
-		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:47:27-74
+		ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:47:27-74
 activity#jcydshanks.com.rixin.activity.LoginActivity
-ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:50:9-60
+ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:50:9-60
 	android:name
-		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:50:19-57
+		ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:50:19-57
 activity#jcydshanks.com.rixin.activity.NewsActivity
-ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:51:9-53:56
+ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:51:9-53:56
 	android:theme
-		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:53:13-53
+		ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:53:13-53
 	android:name
-		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:52:13-50
+		ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:52:13-50
 activity#jcydshanks.com.rixin.activity.WallPaperActivity
-ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:54:9-73
+ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:54:9-73
 	android:name
-		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml:54:19-61
+		ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml:54:19-61
 uses-sdk
-INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml
-INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml
-MERGED from [:core] /Users/hou/Applications/AndroidWorkSpace/rixin-1/core/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
-MERGED from [:core] /Users/hou/Applications/AndroidWorkSpace/rixin-1/core/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:design:27.1.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/74f6699217bed817a415ad9a62742c4d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:27.1.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/74f6699217bed817a415ad9a62742c4d/AndroidManifest.xml:20:5-44
-MERGED from [com.gyf.immersionbar:immersionbar:2.3.2-beta01] /Users/hou/.gradle/caches/transforms-1/files-1.1/immersionbar-2.3.2-beta01.aar/45929321d4800deb31e701ffe4839feb/AndroidManifest.xml:8:5-10:41
-MERGED from [com.gyf.immersionbar:immersionbar:2.3.2-beta01] /Users/hou/.gradle/caches/transforms-1/files-1.1/immersionbar-2.3.2-beta01.aar/45929321d4800deb31e701ffe4839feb/AndroidManifest.xml:8:5-10:41
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/17635cf7947bc28477a1180f1f080fcd/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/17635cf7947bc28477a1180f1f080fcd/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/hou/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/3e7cc826945b2491df48200e173b277e/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/hou/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/3e7cc826945b2491df48200e173b277e/AndroidManifest.xml:5:5-7:41
-MERGED from [me.yokeyword:fragmentation:1.3.4] /Users/hou/.gradle/caches/transforms-1/files-1.1/fragmentation-1.3.4.aar/8dfdf7cda0a2110dd48bc2fc08b57b73/AndroidManifest.xml:5:5-7:41
-MERGED from [me.yokeyword:fragmentation:1.3.4] /Users/hou/.gradle/caches/transforms-1/files-1.1/fragmentation-1.3.4.aar/8dfdf7cda0a2110dd48bc2fc08b57b73/AndroidManifest.xml:5:5-7:41
-MERGED from [me.yokeyword:fragmentation-swipeback:1.3.4] /Users/hou/.gradle/caches/transforms-1/files-1.1/fragmentation-swipeback-1.3.4.aar/bb6a8a7445639668ddf4a68115d87d9f/AndroidManifest.xml:5:5-7:41
-MERGED from [me.yokeyword:fragmentation-swipeback:1.3.4] /Users/hou/.gradle/caches/transforms-1/files-1.1/fragmentation-swipeback-1.3.4.aar/bb6a8a7445639668ddf4a68115d87d9f/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-v4:27.1.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/2e8ca4ca19c669368aafe5983fae5003/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/2e8ca4ca19c669368aafe5983fae5003/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/275b971ff403b7fb3f102e0874f21066/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/275b971ff403b7fb3f102e0874f21066/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:27.1.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/e789bed8781fe90551a22d577ac348d9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:27.1.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/e789bed8781fe90551a22d577ac348d9/AndroidManifest.xml:20:5-44
-MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/hou/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/b124f7d032fcb492e121acdd24504409/AndroidManifest.xml:5:5-7:41
-MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/hou/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/b124f7d032fcb492e121acdd24504409/AndroidManifest.xml:5:5-7:41
-MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/hou/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/38d65aa1d58bf26e42d124d63f811b95/AndroidManifest.xml:19:5-43
-MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/hou/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/38d65aa1d58bf26e42d124d63f811b95/AndroidManifest.xml:19:5-43
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/cbc72fdacb8cf4d34f9fdac488a40472/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/cbc72fdacb8cf4d34f9fdac488a40472/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/0b5044bbece9b15b3ea241a558cedec0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/0b5044bbece9b15b3ea241a558cedec0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/409eb3179b655ba3a52b2897fd1cacc6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/409eb3179b655ba3a52b2897fd1cacc6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a921c72d9e3954329d5e7154d2aa5eaa/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a921c72d9e3954329d5e7154d2aa5eaa/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/2697568d9e744cc2d058c1e3e6405097/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/2697568d9e744cc2d058c1e3e6405097/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/6e3f0c4f4ea53931251056dfcedf7a62/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/6e3f0c4f4ea53931251056dfcedf7a62/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/58b6a35b8412df97dd2fe6f9bb579522/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/58b6a35b8412df97dd2fe6f9bb579522/AndroidManifest.xml:20:5-44
-MERGED from [com.jakewharton:butterknife:8.8.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/c18d99fe579a04ff87e2bc616983a056/AndroidManifest.xml:5:5-43
-MERGED from [com.jakewharton:butterknife:8.8.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/c18d99fe579a04ff87e2bc616983a056/AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-compat:27.1.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6ccb7eaddc1189fc6bffd5d86908134b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6ccb7eaddc1189fc6bffd5d86908134b/AndroidManifest.xml:20:5-44
-MERGED from [me.yokeyword:fragmentation-core:1.3.4] /Users/hou/.gradle/caches/transforms-1/files-1.1/fragmentation-core-1.3.4.aar/5ea597e134228cdae24cb1cb0f0ff351/AndroidManifest.xml:5:5-7:41
-MERGED from [me.yokeyword:fragmentation-core:1.3.4] /Users/hou/.gradle/caches/transforms-1/files-1.1/fragmentation-core-1.3.4.aar/5ea597e134228cdae24cb1cb0f0ff351/AndroidManifest.xml:5:5-7:41
-MERGED from [io.reactivex:rxandroid:1.2.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/rxandroid-1.2.1.aar/13f82c17a19d0ff2db1b9a2fbd17bad8/AndroidManifest.xml:19:5-43
-MERGED from [io.reactivex:rxandroid:1.2.1] /Users/hou/.gradle/caches/transforms-1/files-1.1/rxandroid-1.2.1.aar/13f82c17a19d0ff2db1b9a2fbd17bad8/AndroidManifest.xml:19:5-43
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/hou/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/5b4188fb91c4b7d453389113613c3369/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/hou/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/5b4188fb91c4b7d453389113613c3369/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/hou/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/000af3902f468d4f4f1e777995e785d1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/hou/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/000af3902f468d4f4f1e777995e785d1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/hou/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/026972abd8c7c7a65893ed2f219f4551/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/hou/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/026972abd8c7c7a65893ed2f219f4551/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /Users/hou/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5a8f4216e80ad56323b15747220e12ce/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /Users/hou/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5a8f4216e80ad56323b15747220e12ce/AndroidManifest.xml:20:5-44
-INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml
-INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml
+INJECTED from E:\Android\rixin\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Android\rixin\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android\rixin\app\src\main\AndroidManifest.xml
+MERGED from [:core] E:\Android\rixin\core\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:core] E:\Android\rixin\core\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\acd66a122dedceb0b7cd64fe3fcf46d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\acd66a122dedceb0b7cd64fe3fcf46d6\AndroidManifest.xml:20:5-44
+MERGED from [com.gyf.immersionbar:immersionbar:2.3.2-beta01] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\immersionbar-2.3.2-beta01.aar\954ad618495c92714566bbf964e581cc\AndroidManifest.xml:8:5-10:41
+MERGED from [com.gyf.immersionbar:immersionbar:2.3.2-beta01] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\immersionbar-2.3.2-beta01.aar\954ad618495c92714566bbf964e581cc\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\1fa101ed39b57396cac675c8f584f2ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\1fa101ed39b57396cac675c8f584f2ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\95285214289ab4a6c23d5c7eb01475c5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\95285214289ab4a6c23d5c7eb01475c5\AndroidManifest.xml:5:5-7:41
+MERGED from [me.yokeyword:fragmentation:1.3.4] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\fragmentation-1.3.4.aar\550e231e8143d0f2b7815e031265064d\AndroidManifest.xml:5:5-7:41
+MERGED from [me.yokeyword:fragmentation:1.3.4] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\fragmentation-1.3.4.aar\550e231e8143d0f2b7815e031265064d\AndroidManifest.xml:5:5-7:41
+MERGED from [me.yokeyword:fragmentation-swipeback:1.3.4] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\fragmentation-swipeback-1.3.4.aar\7e6573753b1f628dcb863fc5aa62851e\AndroidManifest.xml:5:5-7:41
+MERGED from [me.yokeyword:fragmentation-swipeback:1.3.4] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\fragmentation-swipeback-1.3.4.aar\7e6573753b1f628dcb863fc5aa62851e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\f8203c1910fdc9eabbc4d49756f2bfc4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\f8203c1910fdc9eabbc4d49756f2bfc4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\51553fe8c008c87d6dc494f23df4f0cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\51553fe8c008c87d6dc494f23df4f0cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\85dcda2a1b186b6a4ee577e8147c905c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\85dcda2a1b186b6a4ee577e8147c905c\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\454ad3508ff610768f3c7796c4acaece\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\454ad3508ff610768f3c7796c4acaece\AndroidManifest.xml:5:5-7:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.2.aar\8ffee0eb985386076384d6b1c789e665\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.2.aar\8ffee0eb985386076384d6b1c789e665\AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\954b24ab4dd8867f42415b37de92b278\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\954b24ab4dd8867f42415b37de92b278\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\50fb32733f7e74816786f245ae62143b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\50fb32733f7e74816786f245ae62143b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\3d63790198bcf0ee57730df9eb38e86f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\3d63790198bcf0ee57730df9eb38e86f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c1a1da5f676b82bb8b804c797114f706\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c1a1da5f676b82bb8b804c797114f706\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\bb3c496cf36f056b5b8c08d2f0f897fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\bb3c496cf36f056b5b8c08d2f0f897fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\68e84d0b00feea311b6ab8c51d6ab45b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\68e84d0b00feea311b6ab8c51d6ab45b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\a1834f0b4e6a87aa5f35354eb1f4a3b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\a1834f0b4e6a87aa5f35354eb1f4a3b3\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\c4c1a6704f4e7ac7aa25e775230dd75f\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\c4c1a6704f4e7ac7aa25e775230dd75f\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\bfd58a1dae48f6e6a852dde223eac050\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\bfd58a1dae48f6e6a852dde223eac050\AndroidManifest.xml:20:5-44
+MERGED from [me.yokeyword:fragmentation-core:1.3.4] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\fragmentation-core-1.3.4.aar\61cb56de5e1883c2b9e843b8c18cbab5\AndroidManifest.xml:5:5-7:41
+MERGED from [me.yokeyword:fragmentation-core:1.3.4] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\fragmentation-core-1.3.4.aar\61cb56de5e1883c2b9e843b8c18cbab5\AndroidManifest.xml:5:5-7:41
+MERGED from [io.reactivex:rxandroid:1.2.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\rxandroid-1.2.1.aar\f538bc46dbf769dcc12caf8027bec28d\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex:rxandroid:1.2.1] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\rxandroid-1.2.1.aar\f538bc46dbf769dcc12caf8027bec28d\AndroidManifest.xml:19:5-43
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\6f8e9c1142fa9a367b539d86f55fbbcc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\6f8e9c1142fa9a367b539d86f55fbbcc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\cf514c7c56e3ede524edeb9e2f4e6e79\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\cf514c7c56e3ede524edeb9e2f4e6e79\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6ef1381b5db0957d34f34acd49078f33\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6ef1381b5db0957d34f34acd49078f33\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\348221e072f254ada272b8d567f198d1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\JcyDS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\348221e072f254ada272b8d567f198d1\AndroidManifest.xml:20:5-44
+INJECTED from E:\Android\rixin\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android\rixin\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml
-		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml
+		INJECTED from E:\Android\rixin\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\rixin\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml
-		ADDED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/hou/Applications/AndroidWorkSpace/rixin-1/app/src/main/AndroidManifest.xml
+		INJECTED from E:\Android\rixin\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\rixin\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\rixin\app\src\main\AndroidManifest.xml
